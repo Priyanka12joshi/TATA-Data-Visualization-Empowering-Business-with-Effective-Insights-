@@ -24,13 +24,13 @@ Product Performance: Highlighted high-demand and low-demand products for invento
 Operational Efficiency: Suggested strategies to improve supply chain efficiency and customer satisfaction.
 Installation & Usage
 Clone this repository:
-# bash
-git clone https://github.com/your-username/tata-data-analysis.git
+ bash
+git clone- https://github.com/Priyanka12joshi/TATA-Data-Visualization-Empowering-Business-with-Effective-Insights-/
 Install the required Python libraries:
-# bash
+ bash
 pip install pandas matplotlib seaborn
 Open the Jupyter Notebook:
-# bash
+bash
 jupyter notebook tata_data_analysis.ipynb
 Open the Power BI file using Power BI Desktop to explore dashboards.
 # Future Scope
